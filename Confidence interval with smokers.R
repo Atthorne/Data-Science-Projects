@@ -1,6 +1,6 @@
-### Homework 6 ###
+
 ## Andrew Thorne ##
-# Due: 3/29/2022 #
+
 
 library(tidyverse)
 library(mdsr)
@@ -74,4 +74,4 @@ ggplot(Whickham, aes(x=smoker, fill = outcome)) + geom_bar(position = "fill") +
 
 #END NO. 7 
 
-### END LAB 6 ### 
+### END ### 
